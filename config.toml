@@ -1,0 +1,98 @@
+languageCode = "en-us"
+title = "Cycling with Saju"
+theme = "hugo-tranquilpeak-theme"
+disqusShortname = "cyclingsaju"
+baseUrl = "//cycling.tsaju.in"
+
+
+[params]
+  clearReading = true
+  hierarchicalCategories = true
+  description = "Saju Cycling"
+  sidebarBehavior = 1
+  coverImage = "http://res.cloudinary.com/sajuthankappan/image/upload/v1492331625/cover_f12c64.jpg"
+  imageGallery = true
+  thumbnailImage = true
+  thumbnailImagePosition = "bottom"
+  autoThumbnailImage = true
+  dateFormat = "02 Jan 2006"
+
+
+[params.header.rightLink]
+    class = ""
+    icon = ""
+    url = "/#about"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+
+[author]
+  name = "Saju Thankappan"
+  gravatarEmail	= "sajuthankappan@gmail.com"
+  bio = ".Net Architect | Cyclist"
+  job = "Technical Architect"
+  location = "Chennai, India"
+  twitter = "sajuthankappan"
+  googlePlus = "+SajuThankappan"
+
+# Menu Configuration
+[[menu.main]]
+  weight = 0
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+  url = "/"
+[[menu.main]]
+  weight = 1
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 2
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/tags"
+[[menu.main]]
+  weight = 4
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  url = "/#about"
+
+[[menu.links]]
+  weight = 0
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://github.com/sajuthankappan"
+[[menu.links]]
+  weight = 0
+  identifier = "facebook"
+  name = "Facebook"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://www.facebook.com/sajuthankappan"
+[[menu.links]]
+  weight = 0
+  identifier = "instagram"
+  name = "Instagram"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://www.instagram.com/sajuthankappan/"
+[[menu.links]]
+  weight = 0
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://twitter.com/sajuthankappan"
+  
+[[menu.misc]]
+  weight = 0
+  identifier = "rss"
+  name = "RSS"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
+  url = "/index.xml"
