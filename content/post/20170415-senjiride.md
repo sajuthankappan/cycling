@@ -9,9 +9,7 @@ autoThumbnailImage = false
 
 +++
 
-Started from my home, at Urapakkam.
-
-15 Apr 2017, Saturday
+Started from my home at Urapakkam, on Saturday, 15 Apr 2017
 <!--more-->
 
 # Ride Pictures
