@@ -10,7 +10,7 @@ baseUrl = "//cycling.tsaju.in"
   hierarchicalCategories = true
   description = "Saju Cycling"
   sidebarBehavior = 1
-  coverImage = "http://res.cloudinary.com/sajuthankappan/image/upload/v1492331625/cover_f12c64.jpg"
+  coverImage = "https://res.cloudinary.com/sajuthankappan/image/upload/v1492331625/cover_f12c64.jpg"
   imageGallery = true
   thumbnailImage = true
   thumbnailImagePosition = "bottom"
@@ -55,6 +55,12 @@ baseUrl = "//cycling.tsaju.in"
   url = "/event"
 [[menu.main]]
   weight = 3
+  identifier = "rideplan"
+  name = "Ride Plans"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar\"></i>"
+  url = "/rideplan"
+[[menu.main]]
+  weight = 4
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
