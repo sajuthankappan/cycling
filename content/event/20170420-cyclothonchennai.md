@@ -4,7 +4,7 @@ draft = false
 title = "Ciclothon Chennai - Ciclo Café 2nd Anniversary Ride"
 +++
 
-**Event Date** 23 Apr 2017, Sunday
+**Event Date** Sunday, 23 Apr 2017
 
 **Registration Url** https://www.facebook.com/events/689395221232750/
 <!--more-->

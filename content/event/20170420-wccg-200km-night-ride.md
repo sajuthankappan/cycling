@@ -4,7 +4,7 @@ draft = false
 title = "WCCG 200KM Night Ride"
 +++
 
-**Event Date** 6 May 2017, Saturday 5:30PM
+**Event Date** Saturday, 6 May 2017 5:30PM
 
 **Registration Url** https://www.facebook.com/events/621268954745716/
 <!--more-->
