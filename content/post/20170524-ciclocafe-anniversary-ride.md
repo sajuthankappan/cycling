@@ -34,5 +34,5 @@ Overall, another pleasant solo ride, with a slighly higher speed than my usual s
 
 ![alt text](https://res.cloudinary.com/sajuthankappan/image/upload/v1493050699/ciclocafe-ride-strava.png "Strava Data")
 
-![alt text](http://res.cloudinary.com/sajuthankappan/image/upload/v1493050289/ciclocafe-ride-groupie.jpg "Group Pic")
+![alt text](https://res.cloudinary.com/sajuthankappan/image/upload/v1493050289/ciclocafe-ride-groupie.jpg "Group Pic")
 
